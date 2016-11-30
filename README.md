@@ -1,0 +1,2 @@
+# oam_yamatocity2017dezomeshiki
+出初式フライト
