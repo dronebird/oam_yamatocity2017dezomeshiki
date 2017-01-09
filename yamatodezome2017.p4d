@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pix4dmapper>
+    <options>
+        <loadTemplate>3d-maps</loadTemplate>
+    </options>
+    <inputs>
+        <images>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03626.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03627.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03628.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03629.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03630.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03631.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03632.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03633.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03634.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03635.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03636.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03637.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03638.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03639.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03640.JPG"/>
+            <image path="C:/Users/taichi/Documents/YamatoDezome2017/img/DSC03641.JPG"/>
+        </images>
+        <processingArea>
+            <geoCoord2D lat="35.4552435000" lng="139.4602563600"/>
+            <geoCoord2D lat="35.4552415700" lng="139.4584896100"/>
+            <geoCoord2D lat="35.4541204800" lng="139.4584914700"/>
+            <geoCoord2D lat="35.4541224200" lng="139.4602582200"/>
+        </processingArea>
+    </inputs>
+</pix4dmapper>
